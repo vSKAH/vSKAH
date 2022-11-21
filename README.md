@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vskahhh@gmail.com**
 
-- 📄 Know about my experiences [Rivrs.io, 42 Student, French freelancer](Rivrs.io, 42 Student, French freelancer)
+- 📄 Know about my experiences (Rivrs.io, 42 Student, French freelancer)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
