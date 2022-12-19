@@ -19,11 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 5 hrs 1 min
+Total Time: 29 mins
 
-Java   4 hrs 43 mins   ███████████████████████▓░   94.09 %
-Text   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-XML    6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+Java   29 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
