@@ -19,7 +19,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Total Time: 8 hrs 34 mins
+
+ObjectiveC   4 hrs 22 mins   ████████████▓░░░░░░░░░░░░   51.07 %
+C            2 hrs 51 mins   ████████▒░░░░░░░░░░░░░░░░   33.28 %
+textmate     1 hr 13 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
+Text         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+CMake        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+C++          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
