@@ -19,14 +19,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 23 hrs 1 min
+Total Time: 22 hrs 16 mins
 
-C            12 hrs 17 mins  █████████████▒░░░░░░░░░░░   53.41 %
-ObjectiveC   8 hrs 23 mins   █████████░░░░░░░░░░░░░░░░   36.42 %
-textmate     1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
-Text         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-Makefile     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-CMake        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+C            13 hrs 31 mins  ███████████████▒░░░░░░░░░   60.67 %
+ObjectiveC   6 hrs 17 mins   ███████░░░░░░░░░░░░░░░░░░   28.22 %
+textmate     1 hr 56 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
+Text         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Makefile     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+CMake        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
