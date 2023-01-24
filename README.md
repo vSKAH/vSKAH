@@ -19,14 +19,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 17 hrs 21 mins
+Total Time: 11 hrs 5 mins
 
-C            9 hrs 16 mins   █████████████▒░░░░░░░░░░░   53.38 %
-ObjectiveC   3 hrs 51 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.19 %
-Java         2 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
-textmate     1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
-XML          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-Makefile     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+C            4 hrs 4 mins    █████████▒░░░░░░░░░░░░░░░   36.76 %
+Java         2 hrs 42 mins   ██████░░░░░░░░░░░░░░░░░░░   24.48 %
+ObjectiveC   2 hrs 16 mins   █████░░░░░░░░░░░░░░░░░░░░   20.59 %
+textmate     1 hr 24 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
+XML          32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+Text         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
