@@ -19,14 +19,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 19 hrs 32 mins
+Total Time: 16 hrs 57 mins
 
-Java             11 hrs 21 mins  ██████████████▓░░░░░░░░░░   58.14 %
-Kotlin           5 hrs 15 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.93 %
-XML              1 hr 59 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
-GitIgnore file   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-Groovy           16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-Gradle           6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Java             9 hrs 4 mins    █████████████▒░░░░░░░░░░░   53.50 %
+Kotlin           5 hrs 15 mins   ███████▓░░░░░░░░░░░░░░░░░   31.02 %
+XML              1 hr 59 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
+GitIgnore file   23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Gradle           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Properties       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
