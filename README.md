@@ -19,13 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 14 hrs 7 mins
+Total Time: 17 hrs 23 mins
 
-Java             13 hrs 56 mins  ████████████████████████▓   98.61 %
-Gradle           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-Groovy           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java             16 hrs 51 mins  ████████████████████████▒   96.95 %
+Groovy           14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+YAML             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Gradle           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 Shell Script     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
