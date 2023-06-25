@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jimmy | vSKAH</h1>
 <h3 align="center">A passionate Java developer from France</h3>
 
-- 🔭 I’m currently working on **LastFight, PixelmonGO, 42 School Cursus !**
+- 🔭 I’m currently working on **LastFight, 42 School Cursus, And cool side projects !**
 
 - 💬 Ask me about **Java**
 
